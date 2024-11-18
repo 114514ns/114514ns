@@ -10,7 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/114514ns](https://github.com/114514ns)
 
-- 💬 Ask me about **pussy**
 
 - 📫 How to reach me **lua6705@gmail.com**
 
